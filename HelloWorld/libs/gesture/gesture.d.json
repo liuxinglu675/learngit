@@ -1,0 +1,12 @@
+{
+	"file_list": [
+		"core/PropGesture.js",
+		"events/GestureEvent.js",
+		"gestures/GestureRecognizerPlugin.js",
+		"gestures/PinchGestureRecognizer.js",
+		"gestures/DoubleTapGestureRecognizer.js",
+		"utils/GestureType.js",
+		"utils/GestureState.js",
+		"GestureManager.js"
+	]
+}

@@ -1,0 +1,21 @@
+{
+    "document_class": "DrawLine",
+    "modules": [
+        {
+            "name": "core"
+        },
+        {
+            "name": "res"
+        },
+        {
+          "name": "gesture",
+          "path": "src/gesture"
+        }
+    ],
+    "native": {
+        "path_ignore": [
+
+        ]
+    },
+    "egret_version":"1.6.0"
+}

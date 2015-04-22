@@ -1,0 +1,8 @@
+[
+	"Component/Button.ts",
+	"data/DrawModel.ts",
+	"view/DrawView.ts",
+	"view/OperateView.ts",
+	"control/DrawController.ts",
+	"DrawLine.ts"
+]
